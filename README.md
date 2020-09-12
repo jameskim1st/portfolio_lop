@@ -2,7 +2,7 @@
 Fastcampus **LOP 과정**을 위한 Github
 
 ## Course 내용
-- python으로 데이터 수집~ 도출까지 일련의 데이터분석 portfolio 완성
+- python으로 데이터 수집 ~ 도출까지 일련의 데이터분석 portfolio 완성
 
 ### 주차별 Curriculum
 - 1주차 : LOP 안내 및 실습환경 설정
