@@ -13,4 +13,4 @@ Fastcampus **LOP 과정**을 위한 Github
 - 6주차 : 개인 project 안내 및 data set 소개
 - 7주차 : Portfolio 1차 리뷰
 - 8주차 : Portfolio 2차 리뷰
-- 종 강 : Portfolio 최종 
+- 종강 : Portfolio 최종 리뷰
