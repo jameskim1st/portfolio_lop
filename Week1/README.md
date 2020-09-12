@@ -1,4 +1,5 @@
 # Process Mining
+- Process 수행에 관한 event log 데이터를 기반으로 실제 비즈니스 프로세스를 발견하고 분석하는 기술
 
 ## Process Mining의 입력 데이터
 - Event log의 구조
