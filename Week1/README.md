@@ -2,9 +2,9 @@
 - Process 수행에 관한 event log 데이터를 기반으로 실제 비즈니스 프로세스를 발견하고 분석하는 기술
 
 ## Process Mining의 입력 데이터
-- Event log의 구조
-- 필수 속성 (3가지)
-- 선택(추가) 속성
+1. Event log의 구조
+2. 필수 속성 (3가지)
+3. 선택(추가) 속성
 
 ### Event log의 구조
 - Process Mining은 입력 data 구조를 가지는 event log만 확보되면 수행 가능
