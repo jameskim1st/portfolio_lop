@@ -14,3 +14,5 @@ Fastcampus **LOP 과정**을 위한 Github
 - 7주차 : Portfolio 1차 리뷰
 - 8주차 : Portfolio 2차 리뷰
 - 종강 : Portfolio 최종 리뷰
+
+* How to add your .ipnb file to colab : https://colab.research.google.com/github/(github.com 이하 주소 붙여넣기)
